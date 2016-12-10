@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg5641"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Navigate.svg">
+  <defs
+     id="defs5643">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10095-5-0-4"
+       id="linearGradient20514-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1,0,0,1,783.50562,-380.01822)"
+       x1="56.425674"
+       y1="834.11798"
+       x2="56.046528"
+       y2="838.97552" />
+    <linearGradient
+       id="linearGradient10095-5-0-4">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.54615384;"
+         offset="0"
+         id="stop10097-6-4-1" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop10099-1-82-0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10095-5-0-4"
+       id="linearGradient6293"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1,0,0,1,783.50562,-380.01822)"
+       x1="56.425674"
+       y1="834.11798"
+       x2="56.046528"
+       y2="838.97552" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10095-5-0-4"
+       id="linearGradient6295"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1,0,0,1,783.50562,-380.01822)"
+       x1="56.425674"
+       y1="834.11798"
+       x2="56.046528"
+       y2="838.97552" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10095-5-0-4"
+       id="linearGradient6297"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1,0,0,1,783.50562,-380.01822)"
+       x1="56.425674"
+       y1="834.11798"
+       x2="56.046528"
+       y2="838.97552" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.2991591"
+     inkscape:cx="-37.414778"
+     inkscape:cy="943.57256"
+     inkscape:document-units="px"
+     inkscape:current-layer="g29838"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="746"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5646">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="translate(-680.61768,-439.47933)"
+       id="g20279"
+       inkscape:export-filename="F:\Sys_icons\MoveTo_PrevMM.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         transform="scale(-1,1)"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0.85016513;marker:none;enable-background:accumulate"
+         id="rect9537-8"
+         width="16"
+         height="16"
+         x="-733.14325"
+         y="451.26962" />
+      <g
+         transform="matrix(0.96232144,0,0,0.99737253,41.509221,12.905151)"
+         id="g20266">
+        <rect
+           style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:1.01126921;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect2993-5-8"
+           width="11.00927"
+           height="15.00927"
+           x="702.58221"
+           y="440.03574" />
+        <ellipse
+           ry="0.96296299"
+           rx="2.7407408"
+           cy="7.9851851"
+           cx="4.2814813"
+           style="fill:#000000;fill-opacity:0.37726093;stroke:#000000;stroke-width:0.40829232;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3775-4-7"
+           transform="matrix(1.0180673,0,0,1.0802685,701.72802,438.91422)" />
+        <ellipse
+           ry="0.96296299"
+           rx="2.7407408"
+           cy="7.9851851"
+           cx="4.2814813"
+           style="fill:#000000;fill-opacity:0.37726093;stroke:#000000;stroke-width:0.3072778;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3775-9-4-9"
+           transform="matrix(1.3913835,0,0,1.1043224,702.12968,433.97214)" />
+        <ellipse
+           ry="0.96296299"
+           rx="2.7407408"
+           cy="7.9851851"
+           cx="4.2814813"
+           style="fill:#000000;fill-opacity:0.37726093;stroke:#000000;stroke-width:0.3072778;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3775-0-1-0"
+           transform="matrix(1.3913835,0,0,1.1043224,702.12968,443.47214)" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.51036537;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 706.24334,448.65239 c 2.51667,2.45742 2.51667,2.45742 2.51667,2.45742"
+           id="path3804-7-3"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.51036537;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 706.19308,446.43414 c 1.7876,-2.43941 1.7876,-2.43941 1.7876,-2.43941"
+           id="path3814-4-1"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g20162"
+           transform="matrix(-1,0,0,1,1443.4202,-11.729224)">
+          <path
+             sodipodi:nodetypes="cccc"
+             id="path9533-6"
+             d="m 735.53882,459.11817 -10.26265,-7.31071 -0.0314,14.92427 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:#0044aa;stroke-width:1.09806156;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             inkscape:export-filename="H:\FreeMind_Ikone\forward.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="H:\FreeMind_Ikone\forward.png"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6293);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.07576025;marker:none;enable-background:accumulate"
+             d="m 725.27617,451.80746 c 0,0 -0.0314,10.49922 -0.0314,14.92427 l 10.11317,-7.52307 z"
+             id="path9535-7"
+             sodipodi:nodetypes="cccc"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,769.66807,-417.54596)"
+       id="g20279-4"
+       inkscape:export-filename="F:\Sys_icons\MoveTo_NextMM.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         transform="scale(-1,1)"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0.85016513;marker:none;enable-background:accumulate"
+         id="rect9537-8-0"
+         width="16"
+         height="16"
+         x="-733.14325"
+         y="451.26962" />
+      <g
+         transform="matrix(0.96232144,0,0,0.99737253,41.509221,12.905151)"
+         id="g20266-3">
+        <rect
+           style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:1.01126921;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect2993-5-8-8"
+           width="11.00927"
+           height="15.00927"
+           x="702.58221"
+           y="440.03574" />
+        <ellipse
+           ry="0.96296299"
+           rx="2.7407408"
+           cy="7.9851851"
+           cx="4.2814813"
+           style="fill:#000000;fill-opacity:0.37726093;stroke:#000000;stroke-width:0.40829232;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3775-4-7-3"
+           transform="matrix(1.0180673,0,0,1.0802685,701.72802,438.91422)" />
+        <ellipse
+           ry="0.96296299"
+           rx="2.7407408"
+           cy="7.9851851"
+           cx="4.2814813"
+           style="fill:#000000;fill-opacity:0.37726093;stroke:#000000;stroke-width:0.3072778;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3775-9-4-9-9"
+           transform="matrix(1.3913835,0,0,1.1043224,702.12968,433.97214)" />
+        <ellipse
+           ry="0.96296299"
+           rx="2.7407408"
+           cy="7.9851851"
+           cx="4.2814813"
+           style="fill:#000000;fill-opacity:0.37726093;stroke:#000000;stroke-width:0.3072778;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3775-0-1-0-4"
+           transform="matrix(1.3913835,0,0,1.1043224,702.12968,443.47214)" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.51036537;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 706.24334,448.65239 c 2.51667,2.45742 2.51667,2.45742 2.51667,2.45742"
+           id="path3804-7-3-6"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.51036537;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 706.19308,446.43414 c 1.7876,-2.43941 1.7876,-2.43941 1.7876,-2.43941"
+           id="path3814-4-1-0"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g20162-7"
+           transform="matrix(-1,0,0,1,1443.4202,-11.729224)">
+          <path
+             sodipodi:nodetypes="cccc"
+             id="path9533-6-2"
+             d="m 735.53882,459.11817 -10.26265,-7.31071 -0.0314,14.92427 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:#0044aa;stroke-width:1.09806156;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             inkscape:export-filename="H:\FreeMind_Ikone\forward.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="H:\FreeMind_Ikone\forward.png"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6295);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.07576025;marker:none;enable-background:accumulate"
+             d="m 725.27617,451.80746 c 0,0 -0.0314,10.49922 -0.0314,14.92427 l 10.11317,-7.52307 z"
+             id="path9535-7-7"
+             sodipodi:nodetypes="cccc"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(-618.48151,-427.58628)"
+       id="g20516"
+       inkscape:export-filename="F:\Sys_icons\MoveTo_PrevNode.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="0.092562973"
+         rx="0.070384353"
+         y="485.99323"
+         x="654.9964"
+         height="16"
+         width="16"
+         id="rect8124-6-9-8-4"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.9251101;fill:none;stroke:none;marker:none;enable-background:accumulate" />
+      <rect
+         y="485.99323"
+         x="654.9964"
+         height="16"
+         width="16"
+         id="rect6193-0-23-7-8-2-89-2-1-0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0.85016513;marker:none;enable-background:accumulate" />
+      <g
+         transform="translate(-22.758497,0.83060518)"
+         id="g20508">
+        <rect
+           style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000080;stroke-width:0.85776222;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           id="rect7279-0-8-4-5"
+           width="15.142238"
+           height="7.3908534"
+           x="678.18378"
+           y="489.46719"
+           rx="1.712225"
+           ry="1.6298807" />
+        <g
+           id="g20162-6"
+           transform="matrix(-0.96232144,0,0,0.99737253,1391.1356,35.099742)">
+          <path
+             sodipodi:nodetypes="cccc"
+             id="path9533-6-4"
+             d="m 735.53882,459.11817 -10.26265,-7.31071 -0.0314,14.92427 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:#0044aa;stroke-width:1.09806156;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             inkscape:export-filename="H:\FreeMind_Ikone\forward.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="H:\FreeMind_Ikone\forward.png"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6297);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.07576025;marker:none;enable-background:accumulate"
+             d="m 725.27617,451.80746 c 0,0 -0.0314,10.49922 -0.0314,14.92427 l 10.11317,-7.52307 z"
+             id="path9535-7-73"
+             sodipodi:nodetypes="cccc"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,765.0118,-386.86414)"
+       id="g20516-7"
+       inkscape:export-filename="F:\Sys_icons\MoveTo_NextNode.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="0.092562973"
+         rx="0.070384353"
+         y="485.99323"
+         x="654.9964"
+         height="16"
+         width="16"
+         id="rect8124-6-9-8-4-3"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.9251101;fill:none;stroke:none;marker:none;enable-background:accumulate" />
+      <rect
+         y="485.99323"
+         x="654.9964"
+         height="16"
+         width="16"
+         id="rect6193-0-23-7-8-2-89-2-1-0-8"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0.85016513;marker:none;enable-background:accumulate" />
+      <g
+         transform="translate(34.158233,-22.105988)"
+         id="g20508-7">
+        <rect
+           style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000080;stroke-width:0.85776222;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           id="rect7279-0-8-4-5-9"
+           width="15.142238"
+           height="7.3908534"
+           x="678.18378"
+           y="489.46719"
+           rx="1.712225"
+           ry="1.6298807" />
+        <g
+           id="g20162-6-3"
+           transform="matrix(-0.96232144,0,0,0.99737253,1391.1356,35.099742)">
+          <path
+             sodipodi:nodetypes="cccc"
+             id="path9533-6-4-4"
+             d="m 735.53882,459.11817 -10.26265,-7.31071 -0.0314,14.92427 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:#0044aa;stroke-width:1.09806156;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             inkscape:export-filename="H:\FreeMind_Ikone\forward.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="H:\FreeMind_Ikone\forward.png"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient20514-1);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.07576025;marker:none;enable-background:accumulate"
+             d="m 725.27617,451.80746 c 0,0 -0.0314,10.49922 -0.0314,14.92427 l 10.11317,-7.52307 z"
+             id="path9535-7-73-4"
+             sodipodi:nodetypes="cccc"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(-414.94808,-590.51794)"
+       id="g29803">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="M:\FreePlane_radna_mapa\Freplane_last_Dimitry\hotlistadd.png"
+         transform="translate(-20.295074,104.87606)"
+         id="g11750">
+        <g
+           id="g11446"
+           transform="matrix(1.0355116,0,0,1,-18.153074,-0.75535035)">
+          <path
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cscccc"
+             id="path11123-2"
+             d="m 482.18972,627.43212 c 1.8238,-0.0366 2.93649,-0.70147 4.01291,-1.822 1.0764,-1.12053 2.1103,-1.78492 3.65594,-1.61236 -1.29205,-0.13399 -2.47876,0.8886 -3.51663,2.18864 -1.05756,1.32719 -2.27925,2.9033 -4.14179,2.94055 l -0.0104,-1.69483 z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#003380;fill-opacity:1;stroke:#000080;stroke-width:0.45977998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99607843;marker:none;enable-background:accumulate" />
+          <rect
+             ry="0.6666466"
+             rx="0.70032662"
+             y="622.5517"
+             x="488.87262"
+             height="3.0229745"
+             width="6.1934109"
+             id="rect7279-0-8-5"
+             style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000080;stroke-width:0.51086664;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+          <path
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cscccc"
+             id="path11123"
+             d="m 481.71038,633.1204 c 1.82381,0.0366 2.93649,0.70148 4.01291,1.822 1.07641,1.12053 2.11031,1.78493 3.65595,1.61237 -1.29206,0.13399 -2.47877,-0.8886 -3.51664,-2.18865 -1.05755,-1.32719 -2.27925,-2.90329 -4.14179,-2.94055 l -0.0104,1.69483 z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#003380;fill-opacity:1;stroke:#000080;stroke-width:0.45977998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99607843;marker:none;enable-background:accumulate" />
+          <path
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="csccccc"
+             id="path11123-3"
+             d="m 483.01777,630.96817 c 1.8238,0.0265 3.07924,-0.91261 4.15566,-0.10145 1.0764,0.81112 1.91998,0.38817 3.46561,0.26325 -1.29205,0.0971 -2.28843,0.26065 -3.3263,-0.6804 -1.05756,-0.96069 -2.422,-0.6812 -4.28454,-0.70816 l -0.0104,1.22682 -1e-5,0 z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#003380;fill-opacity:1;stroke:#003380;stroke-width:0.45977998;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate" />
+          <circle
+             r="51.206081"
+             cy="219.911"
+             cx="257.43976"
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Documents and Settings\Designm5\Desktop\4.png"
+             transform="matrix(0.11654255,0,0,0.11654255,449.62429,604.74822)"
+             id="path10466-1-3-5"
+             style="font-size:61.54321671px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000080;stroke-width:9.42261791;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843;marker:none;enable-background:accumulate" />
+          <path
+             inkscape:connector-curvature="0"
+             id="text10478-8-8-7"
+             d="m 478.53743,626.24099 0,3.06686 -2.86507,0 0,2.13872 2.86507,0 0,3.06686 2.17911,0 0,-3.06686 2.86507,0 0,-2.13872 -2.86507,0 0,-3.06686 -2.17911,0 z"
+             style="font-style:normal;font-weight:normal;font-size:20.7778492px;font-family:'Bitstream Vera Sans';fill:#f21313;fill-opacity:1;stroke:#f70808;stroke-width:0.19268937px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <rect
+             ry="0.67648315"
+             rx="0.71066016"
+             y="629.57697"
+             x="488.77264"
+             height="3.0675793"
+             width="6.2847962"
+             id="rect7279-0-8-5-9"
+             style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000080;stroke-width:0.51086664;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+          <rect
+             ry="0.70599282"
+             rx="0.74166071"
+             y="634.83942"
+             x="488.44519"
+             height="3.2013938"
+             width="6.5589533"
+             id="rect7279-0-8-5-1"
+             style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000080;stroke-width:0.51086664;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+        </g>
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0.65200001;marker:none;enable-background:accumulate"
+           id="rect11699-4"
+           width="23"
+           height="16"
+           x="471.76068"
+           y="621.54089" />
+      </g>
+    </g>
+    <g
+       transform="translate(-415.43102,-627.11641)"
+       id="g29838">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="M:\FreePlane_radna_mapa\Freplane_last_Dimitry\edit_add.png"
+         transform="translate(-57.318068,96.283247)"
+         id="g11762">
+        <g
+           id="g11596"
+           transform="matrix(1.0880091,0,0,1.0968782,-48.223618,-61.854327)">
+          <g
+             id="g11525">
+            <path
+               inkscape:connector-curvature="0"
+               style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#003380;fill-opacity:1;stroke:#000080;stroke-width:0.65200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99607843;marker:none;enable-background:accumulate"
+               d="m 513.49608,632.12377 c 2.58603,0.0519 5.59112,1.08314 7.11741,2.67195 1.52627,1.58884 3.97359,3.68128 6.16519,3.4366 -1.83205,0.18999 -4.49604,-2.41034 -5.96766,-4.25372 -1.49953,-1.88186 -4.65921,-4.20515 -7.30015,-4.25798 l -0.0148,2.40315 10e-6,0 z"
+               id="path11123-60"
+               sodipodi:nodetypes="csccccc" />
+            <path
+               inkscape:connector-curvature="0"
+               style="font-style:normal;font-weight:normal;font-size:20.7778492px;font-family:'Bitstream Vera Sans';fill:#f21313;fill-opacity:1;stroke:#f70808;stroke-width:0.22206773px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 524.57262,625.77373 0,3.53446 -3.30189,0 0,2.46478 3.30189,0 0,3.53446 2.51135,0 0,-3.53446 3.30189,0 0,-2.46478 -3.30189,0 0,-3.53446 -2.51135,0 z"
+               id="text10478-8-8-7-1" />
+            <g
+               id="g11522"
+               transform="translate(0.09706258,-0.29118774)">
+              <rect
+                 ry="0.70599282"
+                 rx="0.74166071"
+                 y="636.81848"
+                 x="526.62018"
+                 height="3.2013938"
+                 width="6.5589533"
+                 id="rect7279-0-8-5-1-4"
+                 style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000080;stroke-width:0.51086664;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+            </g>
+          </g>
+        </g>
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0.65200001;marker:none;enable-background:accumulate"
+           id="rect11699-7"
+           width="23"
+           height="16"
+           x="509.26398"
+           y="624.12994" />
+      </g>
+    </g>
+    <g
+       transform="translate(-415.44993,-590.51794)"
+       id="g29816">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="M:\FreePlane_radna_mapa\Freplane_last_Dimitry\hotlistdel.png"
+         transform="translate(-22.721639,104.68194)"
+         id="g11773">
+        <g
+           id="g11685"
+           transform="translate(1.2311098,-0.14857744)">
+          <path
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cscccc"
+             id="path11123-6"
+             d="m 484.19764,652.96919 c 1.82381,0.0366 2.93649,0.70148 4.01291,1.822 1.07641,1.12053 2.11031,1.78493 3.65595,1.61237 -1.29206,0.13399 -2.47877,-0.8886 -3.51664,-2.18865 -1.05755,-1.32719 -2.27925,-2.90329 -4.14179,-2.94055 l -0.0104,1.69483 z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#003380;fill-opacity:1;stroke:#000080;stroke-width:0.45977998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99607843;marker:none;enable-background:accumulate" />
+          <path
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="csccccc"
+             id="path11123-3-0"
+             d="m 485.50503,649.65223 c 1.8238,0.0265 3.07924,-0.91261 4.15566,-0.10145 1.0764,0.81112 1.91998,0.38817 3.46561,0.26325 -1.29205,0.0971 -2.28843,0.26065 -3.3263,-0.6804 -1.05756,-0.96069 -2.422,-0.6812 -4.28454,-0.70816 l -0.0104,1.22682 -1e-5,0 z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#003380;fill-opacity:1;stroke:#000080;stroke-width:0.45977998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99607843;marker:none;enable-background:accumulate" />
+          <g
+             transform="translate(0,-0.58237548)"
+             id="g11617">
+            <path
+               inkscape:connector-curvature="0"
+               style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#003380;fill-opacity:1;stroke:#000080;stroke-width:0.45977998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99607843;marker:none;enable-background:accumulate"
+               d="m 484.67698,646.11618 c 1.8238,-0.0366 2.93649,-0.70147 4.01291,-1.822 1.0764,-1.12053 2.1103,-1.78492 3.65594,-1.61236 -1.29205,-0.13399 -2.47876,0.8886 -3.51663,2.18864 -1.05756,1.32719 -2.27925,2.9033 -4.14179,2.94055 l -0.0104,-1.69483 z"
+               id="path11123-2-2"
+               sodipodi:nodetypes="cscccc" />
+            <circle
+               r="51.206081"
+               cy="219.911"
+               cx="257.43976"
+               style="font-size:61.54321671px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#043b8e;stroke-width:15.42418671;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="path10466-1-3-5-8"
+               transform="matrix(0.01272952,0,0,0.01272952,489.34643,639.60617)"
+               inkscape:export-filename="C:\Documents and Settings\Designm5\Desktop\4.png"
+               inkscape:export-xdpi="90"
+               inkscape:export-ydpi="90" />
+          </g>
+          <circle
+             r="51.206081"
+             cy="219.911"
+             cx="257.43976"
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Documents and Settings\Designm5\Desktop\4.png"
+             transform="matrix(0.11654255,0,0,0.11654255,452.11155,623.43228)"
+             id="path10466-1-3-5-2"
+             style="font-size:61.54321671px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000080;stroke-width:9.42261791;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843;marker:none;enable-background:accumulate" />
+          <path
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc"
+             id="text10478-8-8-7-4"
+             d="m 478.15962,647.99191 0,2.13872 7.90925,0 0,-2.13872 -7.90925,0 z"
+             style="font-style:normal;font-weight:normal;font-size:20.7778492px;font-family:'Bitstream Vera Sans';fill:#f21313;fill-opacity:1;stroke:#f70808;stroke-width:0.19268937px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <circle
+             r="51.206081"
+             cy="219.911"
+             cx="257.43976"
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Documents and Settings\Designm5\Desktop\4.png"
+             transform="matrix(0.01272952,0,0,0.01272952,490.28614,646.94724)"
+             id="path10466-1-3-5-8-0"
+             style="font-size:61.54321671px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#043b8e;stroke-width:15.42418671;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+          <circle
+             r="51.206081"
+             cy="219.911"
+             cx="257.43976"
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="C:\Documents and Settings\Designm5\Desktop\4.png"
+             transform="matrix(0.01272952,0,0,0.01272952,489.02432,653.54748)"
+             id="path10466-1-3-5-8-6"
+             style="font-size:61.54321671px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#043b8e;stroke-width:15.42418671;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+        </g>
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0.65200001;marker:none;enable-background:accumulate"
+           id="rect11699-3"
+           width="23"
+           height="16"
+           x="474.68646"
+           y="640.9364" />
+      </g>
+    </g>
+    <g
+       transform="translate(-446.80114,-631.72966)"
+       id="g29830">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="M:\FreePlane_radna_mapa\Freplane_last_Dimitry\edit_remove.png"
+         transform="translate(-27.28358,103.226)"
+         id="g11791">
+        <g
+           id="g11786"
+           transform="translate(1.4830221,3.1396901)">
+          <path
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccc"
+             id="path11123-60-6"
+             d="m 510.45923,645.9801 c 2.887,0.0579 5.55387,0.3457 8.58469,2.78707 2.86865,2.35277 6.5436,4.86379 8.99027,4.59063 -2.04528,0.2121 -5.27312,-2.50864 -8.09936,-5.36167 -4.23487,-4.22336 -6.51079,-4.63989 -9.45909,-4.69887 l -0.0165,2.68284 -1e-5,0 z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#003380;fill-opacity:1;stroke:#000080;stroke-width:0.72788304;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99607843;marker:none;enable-background:accumulate" />
+          <path
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc"
+             id="text10478-8-8-7-1-3"
+             d="m 519.5453,642.72796 0,2.49742 9.23581,0 0,-2.49742 -9.23581,0 z"
+             style="font-style:normal;font-weight:normal;font-size:20.7778492px;font-family:'Bitstream Vera Sans';fill:#f21313;fill-opacity:1;stroke:#f70808;stroke-width:0.22500767px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <circle
+             r="51.206081"
+             cy="219.911"
+             cx="257.43976"
+             style="font-size:61.54321671px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#043b8e;stroke-width:15.42418671;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             id="path10466-1-3-5-8-0-8"
+             transform="matrix(0.01421105,0,0,0.01421105,525.20754,650.22252)"
+             inkscape:export-filename="C:\Documents and Settings\Designm5\Desktop\4.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+        </g>
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0.65200001;marker:none;enable-background:accumulate"
+           id="rect11699-5"
+           width="23"
+           height="16"
+           x="510.59961"
+           y="643.24872" />
+      </g>
+    </g>
+  </g>
+</svg>
