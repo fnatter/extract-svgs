@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="1052.4" width="744.09" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-126.27 -588.81)">
+  <g transform="matrix(.99611 0 0 .99611 -17.49 -18.585)" stroke="#000" fill="#d40000">
+   <path style="block-progression:tb;text-indent:0;color:#000000;text-transform:none" d="m181.62 749c-4.3531 0-7.9062 3.5531-7.9062 7.9062s3.5531 7.9062 7.9062 7.9062 7.875-3.5531 7.875-7.9062c0-4.36-3.52-7.91-7.88-7.91zm0 1.5c3.5425 0 6.375 2.8638 6.375 6.4062 0 3.5425-2.8325 6.4062-6.375 6.4062s-6.4062-2.8638-6.4062-6.4062c0-3.5425 2.8638-6.4062 6.4062-6.4062z" stroke-width=".25"/>
+   <path style="block-progression:tb;text-indent:0;color:#000000;text-transform:none" d="m181.62 751.72c-2.8566 0-5.1882 2.3316-5.1882 5.1882s2.3316 5.1882 5.1882 5.1882 5.1676-2.3316 5.1676-5.1882-2.3111-5.1882-5.1676-5.1882zm0 0.98431c2.3246 0 4.1833 1.8792 4.1833 4.2038s-1.8587 4.2038-4.1833 4.2038-4.2038-1.8792-4.2038-4.2038 1.8792-4.2038 4.2038-4.2038z" stroke-width=".16405"/>
+   <path style="block-progression:tb;text-indent:0;color:#000000;text-transform:none" d="m181.62 753.85c-1.6831 0-3.0568 1.3737-3.0568 3.0568s1.3738 3.0568 3.0568 3.0568 3.0447-1.3737 3.0447-3.0568-1.3617-3.0568-3.0447-3.0568zm0 0.57994c1.3696 0 2.4648 1.1072 2.4648 2.4769 0 1.3696-1.0952 2.4769-2.4648 2.4769s-2.4769-1.1072-2.4769-2.4769c0-1.3696 1.1072-2.4769 2.4769-2.4769z" stroke-width=".096658"/>
+   <path style="color:#000000" d="m181.33 758.02c-0.23023-0.062-0.37238-0.14315-0.5342-0.30497-0.44061-0.44061-0.43887-1.1693 0.004-1.612 0.45087-0.45087 1.1666-0.44926 1.6195 0.004 0.43604 0.43604 0.43612 1.1725 0.00019 1.6084-0.16553 0.16553-0.30419 0.2432-0.54707 0.30646-0.20931 0.0545-0.33558 0.0542-0.54231-0.001h0.00001z" fill-rule="evenodd" stroke-dasharray="0.09003475, 0.09003475" stroke-width=".0075029"/>
+  </g>
+  <rect opacity=".92511" style="color:#000000" rx=".070384" ry=".092563" height="16" width="16" y="727.38" x="155.41" fill="none"/>
+  <rect style="color:#000000" height="16" width="16" y="727.38" x="155.41" fill="none"/>
+ </g>
+</svg>
